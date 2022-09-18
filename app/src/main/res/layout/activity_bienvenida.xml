@@ -1,149 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout  xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".Bienvenida">
-
-    <ScrollView
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:layout_editor_absoluteX="-112dp"
-        tools:layout_editor_absoluteY="-63dp">
+        android:orientation="vertical"
+        android:background="@color/white"
+        tools:context=".Bienvenida">
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical">
 
-            <TextView
-                android:id="@+id/textView2"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="20dp"
-                android:shadowColor="#070707"
-                android:text="@string/Menu"
-                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-                android:textColor="#F44336"
-                android:textSize="24sp"
-                android:textStyle="bold"
-                android:gravity="center"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.498"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.081"/>
-            <Space
-                android:layout_width="20dp"
-                android:layout_height="20dp" />
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="horizontal">
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
 
-                <ImageButton
-                    android:id="@+id/imageButton"
-                    android:layout_width="153dp"
-                    android:layout_height="127dp"
-                    android:contentDescription="@string/foto"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/ivan"
-                    tools:layout_editor_absoluteX="37dp"
-                    tools:layout_editor_absoluteY="122dp" />
-
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:shadowColor="#070707"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                    android:textColor="#F44336"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.498"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.081"/>
                 <Space
                     android:layout_width="20dp"
                     android:layout_height="20dp" />
 
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/btnAcercade"
+                        android:layout_width="153dp"
+                        android:layout_height="127dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/ivan"
+                        android:background="#000063D7"
+                        tools:layout_editor_absoluteX="37dp"
+                        tools:layout_editor_absoluteY="122dp" />
+
+                    <Space
+                        android:layout_width="20dp"
+                        android:layout_height="20dp" />
+
+                    <ImageButton
+                        android:id="@+id/btnCamaraBienvenido"
+                        android:layout_width="153dp"
+                        android:layout_height="127dp"
+                        android:background="#000063D7"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/camara"
+                        tools:layout_editor_absoluteX="231dp"
+                        tools:layout_editor_absoluteY="268dp" />
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="20dp"
+                    android:layout_height="20dp" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+                    <ImageButton
+                        android:id="@+id/btnTelevision"
+                        android:layout_width="153dp"
+                        android:layout_height="127dp"
+                        android:scaleType="fitCenter"
+                        android:background="#000063D7"
+                        android:src="@drawable/television"
+                        tools:layout_editor_absoluteX="231dp"
+                        tools:layout_editor_absoluteY="122dp" />
+                    <Space
+                        android:layout_width="20dp"
+                        android:layout_height="20dp" />
+
+                    <ImageButton
+                        android:id="@+id/btnGaleria"
+                        android:layout_width="153dp"
+                        android:layout_height="127dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/galeria"
+                        android:background="#000063D7"
+                        tools:layout_editor_absoluteX="37dp"
+                        tools:layout_editor_absoluteY="268dp" />
+                </LinearLayout>
+                <Space
+                    android:layout_width="20dp"
+                    android:layout_height="20dp" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/btnlinterna"
+                        android:layout_width="153dp"
+                        android:layout_height="127dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/linterna"
+                        android:background="#000063D7"
+                        tools:layout_editor_absoluteX="37dp"
+                        tools:layout_editor_absoluteY="416dp" />
+                    <Space
+                        android:layout_width="20dp"
+                        android:layout_height="20dp" />
+
+                    <ImageButton
+                        android:id="@+id/btnPestania"
+                        android:layout_width="153dp"
+                        android:layout_height="127dp"
+
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/pestanias"
+                        android:background="#000063D7"
+                        tools:layout_editor_absoluteX="231dp"
+                        tools:layout_editor_absoluteY="416dp" />
+                </LinearLayout>
+                <Space
+                    android:layout_width="40dp"
+                    android:layout_height="40dp" />
+
                 <ImageButton
-                    android:id="@+id/imageButton2"
-                    android:layout_width="153dp"
-                    android:layout_height="127dp"
-                    android:contentDescription="@string/foto"
+                    android:id="@+id/btnsalirbienvenida"
+                    android:layout_width="88dp"
+                    android:layout_height="75dp"
                     android:scaleType="fitCenter"
-                    android:src="@drawable/camara"
-                    tools:layout_editor_absoluteX="231dp"
-                    tools:layout_editor_absoluteY="268dp" />
+                    android:src="@drawable/salir"
+                    android:background="#000063D7"
+                    tools:layout_editor_absoluteX="37dp"
+                    tools:layout_editor_absoluteY="640dp" />
             </LinearLayout>
+        </ScrollView>
 
-            <Space
-                android:layout_width="20dp"
-                android:layout_height="20dp" />
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="horizontal">
-            <ImageButton
-                android:id="@+id/imageButton3"
-                android:layout_width="153dp"
-                android:layout_height="127dp"
-                android:contentDescription="@string/foto"
-                android:scaleType="fitCenter"
-                android:src="@drawable/television"
-                tools:layout_editor_absoluteX="231dp"
-                tools:layout_editor_absoluteY="122dp" />
-            <Space
-                android:layout_width="20dp"
-                android:layout_height="20dp" />
-
-            <ImageButton
-                android:id="@+id/imageButton4"
-                android:layout_width="153dp"
-                android:layout_height="127dp"
-                android:contentDescription="@string/foto"
-                android:scaleType="fitCenter"
-                android:src="@drawable/galeria"
-                tools:layout_editor_absoluteX="37dp"
-                tools:layout_editor_absoluteY="268dp" />
-        </LinearLayout>
-            <Space
-                android:layout_width="20dp"
-                android:layout_height="20dp" />
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="horizontal">
-
-            <ImageButton
-                android:id="@+id/imageButton5"
-                android:layout_width="153dp"
-                android:layout_height="127dp"
-                android:contentDescription="@string/foto"
-                android:scaleType="fitCenter"
-                android:src="@drawable/linterna"
-                tools:layout_editor_absoluteX="37dp"
-                tools:layout_editor_absoluteY="416dp" />
-            <Space
-                android:layout_width="20dp"
-                android:layout_height="20dp" />
-
-            <ImageButton
-                android:id="@+id/imageButton6"
-                android:layout_width="153dp"
-                android:layout_height="127dp"
-                android:contentDescription="@string/foto"
-                android:scaleType="fitCenter"
-                android:src="@drawable/pestanias"
-                tools:layout_editor_absoluteX="231dp"
-                tools:layout_editor_absoluteY="416dp" />
-        </LinearLayout>
-            <Space
-                android:layout_width="40dp"
-                android:layout_height="40dp" />
-
-            <ImageButton
-                android:id="@+id/imageButton7"
-                android:layout_width="88dp"
-                android:layout_height="75dp"
-                android:contentDescription="@string/foto"
-                android:scaleType="fitCenter"
-                android:src="@drawable/salir"
-                tools:layout_editor_absoluteX="37dp"
-                tools:layout_editor_absoluteY="640dp" />
-        </LinearLayout>
-    </ScrollView>
-
-</android.support.constraint.ConstraintLayout>

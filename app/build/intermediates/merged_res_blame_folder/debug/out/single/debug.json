@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_acercadeicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/acercadeicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_tvicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/tvicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/xml_backup_rules.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-v24_television.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable-v24/television.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_iconoprin.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-anydpi-v26/iconoprin.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_iconoprin.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/iconoprin.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_l_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-ldpi/ic_l_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_l_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_l_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_lamparaocon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/lamparaocon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_camaraicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/camaraicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_icon.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-anydpi-v26/icon.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_tvicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/tvicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activity_linterna.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activity_linterna.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_saliricon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/saliricon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activity_progressivebar.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activity_progressivebar.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_lamparaocon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/lamparaocon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_iconoprin_foreground.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/iconoprin_foreground.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_tvicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/tvicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_iconpes.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/iconpes.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_iconoprin_round.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-anydpi-v26/iconoprin_round.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_regresa.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/regresa.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_iconoprin.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/iconoprin.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_l_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-hdpi/ic_l_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_pestana3.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/pestana3.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_iconoprin_round.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/iconoprin_round.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_iconoprin_foreground.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/iconoprin_foreground.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activity_pestanias.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activity_pestanias.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_acercadeicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/acercadeicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_camaraicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/camaraicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_lau_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-ldpi/ic_lau_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable_fondoradio.jpg.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable/fondoradio.jpg"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_l_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-mdpi/ic_l_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon_foreground.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/icon_foreground.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_l_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_l_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-v24_usuario.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable-v24/usuario.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_iconoprin.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/iconoprin.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable_tv.jpg.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable/tv.jpg"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_lau_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_lau_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_iconoprin.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/iconoprin.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_pestana2.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/pestana2.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_regresa.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/regresa.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-v24_ivan.jpeg.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable-v24/ivan.jpeg"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_iconoprin_foreground.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/iconoprin_foreground.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_iconoprin_round.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/iconoprin_round.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-v24_salir.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable-v24/salir.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/icon_round.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_radioicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/radioicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_acercadeicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/acercadeicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_iconpes.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/iconpes.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activity_bienvenida.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activity_bienvenida.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_camaraicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/camaraicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_tvicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/tvicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/raw_dos.mp4.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/raw/dos.mp4"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-v24_pestanias.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable-v24/pestanias.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_radioicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/radioicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_lau_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-hdpi/ic_lau_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_lamparaocon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/lamparaocon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_saliricon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/saliricon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon_foreground.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/icon_foreground.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_regresa.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/regresa.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-v24_camara.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable-v24/camara.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_camaraicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/camaraicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_l_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_l_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_camaraicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/camaraicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_pestana0.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/pestana0.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_lau_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-mdpi/ic_lau_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon_round.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/icon_round.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_lau_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_lau_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_acercadeicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/acercadeicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activity_galeria.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activity_galeria.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable_pestan.jpg.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable/pestan.jpg"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_iconoprin_round.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/iconoprin_round.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_iconoprin_foreground.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/iconoprin_foreground.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_lamparaocon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/lamparaocon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activitycamara.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activitycamara.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_radioicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/radioicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_radioicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/radioicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_saliricon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/saliricon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable_timewall.jpg.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable/timewall.jpg"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_lamparaocon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/lamparaocon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon_foreground.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/icon_foreground.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activity_television.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activity_television.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_iconoprin_foreground.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/iconoprin_foreground.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_saliricon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/saliricon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_radioicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/radioicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_saliricon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/saliricon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon_round.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/icon_round.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_lau_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_lau_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_round.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/icon_round.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable_tele.jpg.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable/tele.jpg"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activity_camara.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activity_camara.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-v24_galeria.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable-v24/galeria.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_foreground.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/icon_foreground.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_iconoprin_round.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/iconoprin_round.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activity_acerca_de.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activity_acerca_de.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable_acercade.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable/acercade.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_iconpes.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/iconpes.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_iconoprin_round.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/iconoprin_round.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon_foreground.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/icon_foreground.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_l_background.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_l_background.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon_round.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/icon_round.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/xml_data_extraction_rules.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_regresa.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/regresa.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_acercadeicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xxhdpi/acercadeicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_lau_background.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_lau_background.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-v24_prendido.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable-v24/prendido.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-v24_apagado.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable-v24/apagado.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable_fondocam.jpg.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable/fondocam.jpg"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_iconpes.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/iconpes.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-hdpi_tvicon.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-hdpi/tvicon.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/raw_uno.mp4.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/raw/uno.mp4"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-mdpi_iconoprin.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-mdpi/iconoprin.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable_usu.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable/usu.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_activity_p.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/activity_p.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_regresa.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/regresa.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/drawable-v24_linterna.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/drawable-v24/linterna.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-anydpi-v26/icon_round.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/layout_pestana1.xml.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/layout/pestana1.xml"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/mipmap-xhdpi_iconpes.png.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/mipmap-xhdpi/iconpes.png"
+    },
+    {
+        "merged": "/home/kike/AndroidStudioProjects/ExamenIvan/app/build/intermediates/res/merged/debug/raw_tres.mp4.flat",
+        "source": "/home/kike/AndroidStudioProjects/ExamenIvan/app/src/main/res/raw/tres.mp4"
+    }
+]

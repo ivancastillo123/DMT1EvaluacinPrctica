@@ -1,4 +1,22 @@
 <resources>
+    <string name="sSalir">Salir</string>
+    <string name="emanuelpzs">Enrique Perez</string>
+    <string name="sSeleccioneOpcion">Seleccione una opcion</string>
+    <string name="sCalculadora">Divisas</string>
+    <string name="sImagenes">Imagenes</string>
+    <string name="sWeb">Visitar pagina Web</string>
+    <string name="Salir">Salir</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="sVideo">Ver video</string>
+    <string name="sReloj">Reloj</string>
+    <string name="sDiferente">Diferente</string>
+    <string name="sCalificacion">Puntuacion de app</string>
+    <string name="sAcerca">Acerca de</string>
+    <string name="sSuma">Suma</string>
+    <string name="sResta">Resta</string>
+    <string name="sMultiplicacion">Multiplicacion</string>
+    <string name="sDivision">Division</string>
+    <string name="sinvierte">Invertir Texto</string>
     <string name="app_name">DM T1 Evaluación Práctica</string>
     <string name="Bienvenido">BIENVENIDO </string>
     <string name="Menu">MENU PRINCIPAL</string>
@@ -8,6 +26,25 @@
     <string name="salir">Salir</string>
     <string name="bienvenido">Bienvenido</string>
     <string name="foto">fotopersonal</string>
-
-
+    <string name="sign_up">Sign up</string>
+    <string name="currency">Currency</string>
+    <string name="dot">.</string>
+    <string name="afn">AFN</string>
+    <string name="refresh">refresh</string>
+    <string name="convert">Convert</string>
+    <string name="contact">Contact</string>
+    <string name="converter">Converter</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="amount">Amount</string>
+    <string name="result">Result</string>
+    <string name="converted_amount">Converted Amount</string>
+    <string name="sPagina">Ingrese una direccion URL</string>
+    <string name="sIngresepagina">Direccion URL</string>
+    <string name="sIng">Ingresar</string>
+    <string name="sCancelar">Salir</string>
+    <string name="palbra">Ingrese la palabra</string>
+    <string name="invertir">Invertir</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="title_activity_map_ubicacion">Map</string>
 </resources>

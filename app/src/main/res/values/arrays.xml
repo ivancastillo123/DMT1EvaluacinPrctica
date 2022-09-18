@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="monedas">
+        <item>DÓLAR</item>
+        <item>EURO</item>
+        <item>PESO MEXICANO</item>
+        <item>YEN</item>
+        <item>FRANCO</item>
+        <item>BITCOINS</item>
+        <item>WOWS</item>
+
+    </string-array>
+
+</resources>

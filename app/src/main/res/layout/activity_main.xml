@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@color/white">
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:orientation="vertical">
 
     <TextView
         android:id="@+id/textView"
@@ -26,66 +31,64 @@
 
 
 
-            <EditText
-                android:id="@+id/user"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="44dp"
-                android:layout_marginEnd="8dp"
-                android:autofillHints=""
-                android:ems="10"
-                android:hint="@string/Usuario"
-                android:inputType="textPersonName"
-                android:minHeight="48dp"
-                android:textColorHint="#616161"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.474"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/textView" />
+    <EditText
+        android:id="@+id/user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="8dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/Usuario"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColorHint="#616161"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.474"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
-            <EditText
-                android:id="@+id/password"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
-                android:layout_marginEnd="8dp"
-                android:autofillHints=""
-                android:ems="10"
-                android:hint="@string/Password"
-                android:inputType="textPassword"
-                android:minWidth="48dp"
-                android:minHeight="48dp"
-                android:textColorHint="#616161"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/user" />
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/Password"
+        android:inputType="textPassword"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:textColorHint="#616161"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/user" />
 
-            <Button
-                android:id="@+id/btnLogin"
-                style="@style/Widget.AppCompat.Button"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:text="@string/ingresar"
-                android:textColor="#212121"
-                app:backgroundTint="#FF5722"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/password" />
+    <Button
+        android:id="@+id/btnLogin"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="343dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/ingresar"
+        android:textColor="#212121"
+        app:backgroundTint="#FF5722"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/password" />
 
-            <Button
-                android:id="@+id/btnSalir"
-                style="@style/Widget.AppCompat.Button"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:backgroundTint="#FF5722"
-                android:foregroundTint="#FF5722"
-                android:text="@string/salir"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/btnLogin" />
-
-
-</android.support.constraint.ConstraintLayout>
+    <Button
+        android:id="@+id/btnSalir"
+        android:layout_width="343dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textColor="#212121"
+        android:backgroundTint="#FF5722"
+        android:foregroundTint="#FF5722"
+        android:text="@string/salir"
+      />
+ </LinearLayout>
+</ScrollView>

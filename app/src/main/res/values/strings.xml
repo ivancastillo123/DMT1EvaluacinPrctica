@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DM T1 Evaluación Práctica</string>
+    <string name="Bienvenido">BIENVENIDO </string>
+    <string name="Menu">MENU PRINCIPAL</string>
+    <string name="Usuario">Ingrese su usuario</string>
+    <string name="Password">Ingrese su contraseña</string>
+    <string name="ingresar">ACEPTAR</string>
+    <string name="salir">Salir</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="foto">fotopersonal</string>
+
+
+</resources>
